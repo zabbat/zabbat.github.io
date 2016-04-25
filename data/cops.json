@@ -1,0 +1,17 @@
+[{
+		"name": "RoboCop",
+		"type": "Android"
+	}, {
+		"name": "Dirty Harry",
+		"type": "Hard Boiled"
+	}, {
+		"name": "Axel Murphy",
+		"type": "Holliwood cop"
+	},
+
+	{
+		"name": "Gordon",
+		"type": "Gotham Cop"
+	}
+
+]
